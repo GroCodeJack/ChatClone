@@ -1,5 +1,6 @@
-# Copy this to .env.local and replace the placeholders with your actual Supabase keys
+# Copy this to .env.local and replace the placeholders with your actual keys
 
 NEXT_PUBLIC_SUPABASE_URL=[YOUR_SUPABASE_URL_HERE]
 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=[YOUR_PUBLISHABLE_KEY_HERE]
 SUPABASE_SECRET_KEY=[YOUR_SECRET_KEY_HERE]
+OPENROUTER_API_KEY=[YOUR_OPENROUTER_API_KEY_HERE]
